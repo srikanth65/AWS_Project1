@@ -1,3 +1,8 @@
+https://www.youtube.com/watch?v=spt3Grgfvu0
+https://www.youtube.com/watch?v=jyb3mhtVgnI
+https://www.youtube.com/watch?v=Mn1-kgU0lqc
+
+
 # AWS Three Tier Web Architecture Workshop
 
 ## Description: 
